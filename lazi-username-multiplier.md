@@ -14,11 +14,11 @@ Users can earn additional multipliers by owning up to 5 LAZI usernames. Each use
 
 | Usernames Held | Username Multiplier |
 | -------------- | ------------------- |
-| 1              | 1.2x                |
-| 2              | 1.4x                |
-| 3              | 1.6x                |
-| 4              | 1.8x                |
-| 5 or more      | 2x                  |
+| 1              | 3x                  |
+| 2              | 3.5x                |
+| 3              | 4x                  |
+| 4              | 4.5x                |
+| 5 or more      | 5x                  |
 
 Please note that the usernames used to obtain the multiplier will also be staked during the engagement session, staking, or LP rewards, and they will only be unstaked upon the conclusion of the respective program.
 

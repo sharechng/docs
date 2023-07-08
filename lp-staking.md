@@ -1,12 +1,12 @@
 # LP Staking
 
-By staking your LAZI-BNB liquidity tokens, you'll unlock a cascade of benefits that will elevate your earnings like never before. An astonishing 115,200 tokens will be released daily for the pool participants.&#x20;
+By staking your LAZI-MATIC liquidity tokens, you'll unlock a cascade of benefits that will elevate your earnings like never before. An astonishing 50,000 tokens will be released daily for the pool participants.&#x20;
 
 ### This exceptional opportunity will be available for a limited time only - 6 months to be precise from the time of launching.
 
 To calculate your potential earnings with the multipliers from .LAZI usernames, simply use the following formula:
 
-### Earnings = (Your Share in the Pool / Total Pool Share) \* 115,200 tokens per day \* (Lock Multiplier + .LAZI Username Multiplier)
+### Earnings = (Your Share in the Pool / Total Pool Share) \* 50,000 tokens per day \* (Lock Multiplier + .LAZI Username Multiplier)
 
 
 
@@ -24,11 +24,11 @@ As a participant, you'll receive rewards proportional to your share in the liqui
 
 | Number of Usernames | Multiplier |
 | ------------------- | ---------- |
-| 1                   | 1.2x       |
-| 2                   | 1.4x       |
-| 3                   | 1.6x       |
-| 4                   | 1.8x       |
-| 5 or more           | 2x         |
+| 1                   | 3x         |
+| 2                   | 3.5x       |
+| 3                   | 4x         |
+| 4                   | 4.5x       |
+| 5 or more           | 5x         |
 
 
 

@@ -9,5 +9,4 @@
 * [Tokenomics](tokenomics.md)
 * [Engagement Mining](engagement-mining.md)
 * [LP Staking](lp-staking.md)
-* [Staking Rewards](staking-rewards.md)
 * [Conclusion](conclusion.md)

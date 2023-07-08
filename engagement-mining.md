@@ -22,11 +22,11 @@ Here's an easy-to-understand explanation of each factor:
 
 | Usernames Held | Username Multiplier |
 | -------------- | ------------------- |
-| 1              | 1.2                 |
-| 2              | 1.4                 |
-| 3              | 1.6                 |
-| 4              | 1.8                 |
-| 5              | 2                   |
+| 1              | 3x                  |
+| 2              | 3.5x                |
+| 3              | 4x                  |
+| 4              | 4.5x                |
+| 5              | 5x                  |
 
 Please note that the usernames used to obtain the multiplier will also be staked during the engagement session, and they will only be unstaked upon its conclusion.
 
