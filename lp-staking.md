@@ -34,4 +34,3 @@ As a participant, you'll receive rewards proportional to your share in the liqui
 
 **NOTE**: A LAZI username used to get the multiplier rewards will also be staked for the staking duration and will be available to trade at the end of the staking period
 
-Seize the moment and stake your LAZI-BNB liquidity tokens to experience the unparalleled rewards that await. Join the Liquidity Pool Staking program today, lock up your tokens for even greater returns, and witness your earnings skyrocket!
