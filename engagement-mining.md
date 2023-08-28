@@ -4,7 +4,11 @@ description: Incentivizing Active Participation and Fostering Community Growth i
 
 # Engagement Mining
 
-Introducing our innovative rewards mechanism, designed to foster user engagement and encourage active participation in our platform. To partake in our "engage to earn" program, users must initiate an "**engagement session**" by staking $LAZI tokens for their desired participation period.&#x20;
+Introducing our innovative rewards mechanism, designed to foster user engagement and encourage active participation in our platform.&#x20;
+
+**Everyday 109,589 $LAZI will be released to reward users for their contributions inside Lazi App.**
+
+To partake in our "engage to earn" program, users must initiate an "**engagement session**" by staking $LAZI tokens for their desired participation period.&#x20;
 
 **Please note**, the maximum duration for an engagement session is capped at 2000 days and the user gets their initial amount and rewards earned at the end of the duration of the engagement session.
 
