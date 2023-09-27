@@ -7,6 +7,5 @@
 * [LAZI Username Multiplier](lazi-username-multiplier.md)
 * [$LAZI](usdlazi.md)
 * [Tokenomics](tokenomics.md)
-* [Engagement Mining](engagement-mining.md)
 * [LP Staking](lp-staking.md)
 * [Conclusion](conclusion.md)
