@@ -1,12 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Why LAZI?](why-lazi.md)
-* [LAZI User NFTs](lazi-user-nfts.md)
-* [LAZI Usernames](lazi-usernames.md)
-* [LAZI Username Multiplier](lazi-username-multiplier.md)
+* [LAZI - Helping users monetize their time and actions on social media](README.md)
 * [$LAZI](usdlazi.md)
 * [Engagement Mining](engagement-mining.md)
-* [Tokenomics](tokenomics.md)
+* [Contribution Score](contribution-score.md)
+* [LAZI User NFTs](lazi-user-nfts.md)
+* [LAZI Web3 Domains](lazi-web3-domains.md)
+* [LAZI Web3 Domains Multiplier](lazi-web3-domains-multiplier.md)
 * [LP Staking](lp-staking.md)
 * [Conclusion](conclusion.md)
